@@ -1,0 +1,96 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/13686282/Desktop/quartus/simulation/modelsim
+Epart1
+Z1 w1728074517
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R0
+Z7 8C:/Users/13686282/Desktop/quartus/part1.vhd
+Z8 FC:/Users/13686282/Desktop/quartus/part1.vhd
+l0
+L7
+VPkKO]`iADmO@h[=4VX6D:1
+!s100 L9J78b537?A[>2TG>7n521
+Z9 OV;C;10.5b;63
+31
+Z10 !s110 1728074781
+!i10b 1
+Z11 !s108 1728074781.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|C:/Users/13686282/Desktop/quartus/part1.vhd|
+Z13 !s107 C:/Users/13686282/Desktop/quartus/part1.vhd|
+!i113 1
+Z14 o-93 -work work
+Z15 tExplicit 1 CvgOpt 0
+Ateste
+R2
+R3
+R4
+R5
+R6
+DEx4 work 5 part1 0 22 PkKO]`iADmO@h[=4VX6D:1
+l26
+L15
+VKADoh3IC3nmH_cjF3M;@73
+!s100 Jh0IIRI`XWS_4<KWfV[=h0
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eram32x4
+Z16 w1728070712
+Z17 DPx9 altera_mf 20 altera_mf_components 0 22 GX]PGX0dkGdbU698H0h^l0
+R4
+R5
+R0
+Z18 8C:/Users/13686282/Desktop/quartus/ram32x4.vhd
+Z19 FC:/Users/13686282/Desktop/quartus/ram32x4.vhd
+l0
+L43
+VR1Em8[;MUIa1WYX0aV4^i0
+!s100 3<Y4N>RfzVJ`2TWR<S_A?3
+R9
+31
+R10
+!i10b 1
+R11
+Z20 !s90 -reportprogress|300|-93|-work|work|C:/Users/13686282/Desktop/quartus/ram32x4.vhd|
+Z21 !s107 C:/Users/13686282/Desktop/quartus/ram32x4.vhd|
+!i113 1
+R14
+R15
+Asyn
+R17
+R4
+R5
+DEx4 work 7 ram32x4 0 22 R1Em8[;MUIa1WYX0aV4^i0
+l59
+L55
+VH>5FI>V`Bmd=eL25]R4hi1
+!s100 6@hhHKzXD>JcW3B=o9R5Q1
+R9
+31
+R10
+!i10b 1
+R11
+R20
+R21
+!i113 1
+R14
+R15
